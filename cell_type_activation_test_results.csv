@@ -1,0 +1,4 @@
+Model,Total Time (s),Avg Epoch  Time (s),Total Epochs,Accuracy,Loss
+ELU activation,90.44,6.03,15,0.7606,0.6427
+PReLU activation,108.28,6.02,18,0.7722,0.6039
+Swish activation,87.73,5.85,15,0.7465,0.6574

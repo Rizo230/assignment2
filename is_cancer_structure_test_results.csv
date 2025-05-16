@@ -1,0 +1,4 @@
+Model,Total Time (s),Avg Epoch  Time (s),Total Epochs,Accuracy,Loss
+3 Layer,88.11,5.87,15,0.9045,0.2393
+Simplified layers,223.8,5.6,40,0.9157,0.2203
+Dropout,100.81,5.93,17,0.9131,0.2315
