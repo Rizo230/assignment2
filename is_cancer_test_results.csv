@@ -1,0 +1,8 @@
+Model,Total Time (s),Avg Epoch Time (s),Accuracy,Loss,Best Val Acc,Best Val Loss
+Base,177.93,5.74,0.9172,0.2198,0.9166,0.2117
+ELU activation,92.3,5.77,0.9136,0.233,0.9101,0.2316
+PReLU activation,91.62,6.11,0.9076,0.2396,0.9055,0.2257
+Swish activation,89.07,5.94,0.9081,0.2471,0.905,0.2362
+3 Layer,84.43,6.03,0.9126,0.2338,0.9075,0.2235
+Simplified layers,75.71,5.82,0.9091,0.246,0.8999,0.2441
+Dropout,160.77,5.74,0.9086,0.2298,0.9111,0.2227
